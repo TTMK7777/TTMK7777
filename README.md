@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### AI Enthusiast who talks with AI 10+ hours a day
+#### AI Otaku who talks with AI 10+ hours a day in Tokyo
 #### 1日10時間以上AIと対話するAIオタク
 
 - 🔭 Now: Building **Multi-AI Orchestration Systems**
