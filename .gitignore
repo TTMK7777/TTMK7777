@@ -14,3 +14,11 @@ Desktop.ini
 .env
 .env.local
 .env.*
+
+# Security - sensitive files
+*.pem
+*.key
+*.p12
+credentials.json
+secrets.json
+.credentials.json
