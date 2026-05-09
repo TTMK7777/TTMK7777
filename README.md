@@ -37,3 +37,9 @@ AI enthusiast based in Tokyo — building tools at the intersection of multi-AI 
 
 - Daily tools: `Claude` `GPT` `Gemini` `Perplexity`
 - Interests: AI orchestration, blockchain, workflow automation
+
+---
+
+### License
+
+MIT — see [LICENSE](./LICENSE).
