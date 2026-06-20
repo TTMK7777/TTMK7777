@@ -40,7 +40,6 @@ I work as an **external CDAIO (Chief Data & AI Officer)** for companies that nee
 
 **Built for:** Teams shipping Claude Code / GitHub Copilot / Cursor output to production who need a fast, offline CI gate.
 **Stack:** Python 3.9+, single-dependency core, MIT licensed.
-**Site:** https://ttmk7777.github.io/code-validator/
 
 ### 🌐 [Japan-Disaster-Alert-v2](https://github.com/TTMK7777/Japan-Disaster-Alert-v2)
 > Multi-language (16 languages) disaster information system for Japan. Real-time earthquake, weather, and evacuation shelter data.
