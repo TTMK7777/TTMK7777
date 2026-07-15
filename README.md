@@ -55,7 +55,7 @@ I work as an **external CDAIO (Chief Data & AI Officer)** for companies that nee
 ### 🎮 [business-simulation-game-v2](https://github.com/TTMK7777/business-simulation-game-v2)
 > Browser-based business management simulation game. Hire and develop staff, build products, and compete in the market — while a built-in "management theory encyclopedia" (14 real-world frameworks like PPM, the Ansoff Matrix, and Herzberg's Two-Factor Theory) unlocks as you play.
 
-**Stack:** TypeScript (strict), Lit 3, Vite 8, Vitest (124 tests).
+**Stack:** TypeScript (strict), Lit 3, Vite 8, Vitest (125 tests).
 **Site:** https://ttmk7777.github.io/business-simulation-game-v2/
 
 ---
