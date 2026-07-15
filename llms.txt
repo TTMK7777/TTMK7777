@@ -49,6 +49,15 @@ Site: https://ttmk7777.github.io/code-validator/
 Multi-language (16 languages) disaster information system for Japan. Real-time earthquake, weather, and evacuation shelter data for international residents and travelers.
 URL: https://github.com/TTMK7777/Japan-Disaster-Alert-v2
 
+### book-recording
+Personal reading-tracker web app for registering books by ISBN, logging ratings and reviews, and bulk-importing Kindle highlights.
+URL: https://github.com/TTMK7777/book-recording
+
+### business-simulation-game-v2
+Browser-based business management simulation game. Manage an IT company through hiring, product development, and market competition, with a built-in management theory encyclopedia (14 real-world frameworks) that unlocks as you play.
+URL: https://github.com/TTMK7777/business-simulation-game-v2
+Site: https://ttmk7777.github.io/business-simulation-game-v2/
+
 ## Daily tools
 
 Claude, GPT, Gemini, Perplexity, Claude Code, Cursor.
