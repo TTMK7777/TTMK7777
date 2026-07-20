@@ -15,6 +15,9 @@ Desktop.ini
 .env.local
 .env.*
 
+# Internal working docs (kept locally, not published)
+archive/
+
 # Security - sensitive files
 *.pem
 *.key
