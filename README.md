@@ -47,11 +47,6 @@ I work as an **external CDAIO (Chief Data & AI Officer)** for companies that nee
 
 **Built for:** International residents and travelers in Japan who need disaster info in their native language.
 
-### 📚 [book-recording](https://github.com/TTMK7777/book-recording)
-> A personal reading-tracker web app for registering books by ISBN, logging ratings/reviews, and bulk-importing Kindle highlights.
-
-**Stack:** Next.js 16, Supabase (Postgres + Auth), Drizzle ORM, Vercel.
-
 ### 🎮 [business-simulation-game-v2](https://github.com/TTMK7777/business-simulation-game-v2)
 > Browser-based business management simulation game. Hire and develop staff, build products, and compete in the market — while a built-in "management theory encyclopedia" (14 real-world frameworks like PPM, the Ansoff Matrix, and Herzberg's Two-Factor Theory) unlocks as you play.
 
