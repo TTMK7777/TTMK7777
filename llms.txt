@@ -10,7 +10,7 @@
 - Title: Applied AI Architect, Forward Deployed Engineer
 - Location: Tokyo, Japan
 - GitHub: https://github.com/TTMK7777
-- LinkedIn: https://www.linkedin.com/in/taimu-tsuji
+- LinkedIn: https://www.linkedin.com/in/taimu-tsuji-841902393
 
 ## Track record
 
@@ -49,14 +49,13 @@ Site: https://ttmk7777.github.io/code-validator/
 Multi-language (16 languages) disaster information system for Japan. Real-time earthquake, weather, and evacuation shelter data for international residents and travelers.
 URL: https://github.com/TTMK7777/Japan-Disaster-Alert-v2
 
-### book-recording
-Personal reading-tracker web app for registering books by ISBN, logging ratings and reviews, and bulk-importing Kindle highlights.
-URL: https://github.com/TTMK7777/book-recording
+### voice-typing (MIT)
+Fully local Japanese voice input for Windows. Whisper (GPU) transcribes speech and types it into the active window; audio and text never leave the machine.
+URL: https://github.com/TTMK7777/voice-typing
 
-### business-simulation-game-v2
-Browser-based business management simulation game. Manage an IT company through hiring, product development, and market competition, with a built-in management theory encyclopedia (14 real-world frameworks) that unlocks as you play.
-URL: https://github.com/TTMK7777/business-simulation-game-v2
-Site: https://ttmk7777.github.io/business-simulation-game-v2/
+### pitch-shifter (MIT, with third-party components)
+Chrome extension (Manifest V3) that shifts the pitch of playing video/audio in real time without changing playback speed. Zero dependencies, no network access.
+URL: https://github.com/TTMK7777/pitch-shifter
 
 ## Daily tools
 
@@ -74,4 +73,4 @@ Claude, GPT, Gemini, Perplexity, Claude Code, Cursor.
 
 ## Contact
 
-For consulting inquiries: LinkedIn (https://www.linkedin.com/in/taimu-tsuji) is the primary channel.
+For consulting inquiries: LinkedIn (https://www.linkedin.com/in/taimu-tsuji-841902393) is the primary channel.

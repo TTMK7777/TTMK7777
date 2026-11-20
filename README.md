@@ -5,7 +5,7 @@
 **Founder, Tsuji Lab** · Applied AI Architect · Forward Deployed Engineer
 *Bridging Strategy to Implementation*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taimu-tsuji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taimu-tsuji-841902393)
 [![GitHub followers](https://img.shields.io/github/followers/TTMK7777?style=flat-square&label=Follow&color=blue)](https://github.com/TTMK7777)
 [![Location](https://img.shields.io/badge/Tokyo-Japan-red?style=flat-square)](#)
 
@@ -47,11 +47,17 @@ I work as an **external CDAIO (Chief Data & AI Officer)** for companies that nee
 
 **Built for:** International residents and travelers in Japan who need disaster info in their native language.
 
-### 🎮 [business-simulation-game-v2](https://github.com/TTMK7777/business-simulation-game-v2)
-> Browser-based business management simulation game. Hire and develop staff, build products, and compete in the market — while a built-in "management theory encyclopedia" (14 real-world frameworks like PPM, the Ansoff Matrix, and Herzberg's Two-Factor Theory) unlocks as you play.
+**Status:** Source is public; hosted demo not yet deployed.
 
-**Stack:** TypeScript (strict), Lit 3, Vite 8, Vitest (125 tests).
-**Site:** https://ttmk7777.github.io/business-simulation-game-v2/
+### 🎙️ [voice-typing](https://github.com/TTMK7777/voice-typing)
+> Fully local Japanese voice input for Windows. Whisper (GPU) transcribes your speech and types it into the active window — audio and text never leave your machine. Wake word, live partial text, custom vocabulary.
+
+**Stack:** Python, faster-whisper, CUDA.
+
+### 🎵 [pitch-shifter](https://github.com/TTMK7777/pitch-shifter)
+> Chrome extension that shifts the pitch of any playing video/audio in real time without changing playback speed (±1 octave, 1-cent steps, two engines, EQ). Manifest V3, zero dependencies, no network access.
+
+**Stack:** Vanilla JavaScript, Web Audio API / AudioWorklet.
 
 ---
 
@@ -92,7 +98,7 @@ I work as an **external CDAIO (Chief Data & AI Officer)** for companies that nee
 
 ## Let's Connect
 
-- 💼 **Consulting (CDAIO / Forward Deployed):** [LinkedIn](https://www.linkedin.com/in/taimu-tsuji)
+- 💼 **Consulting (CDAIO / Forward Deployed):** [LinkedIn](https://www.linkedin.com/in/taimu-tsuji-841902393)
 - 🐙 **OSS / Code:** [github.com/TTMK7777](https://github.com/TTMK7777)
 - 📍 **Based in:** Tokyo, Japan
 
@@ -121,7 +127,7 @@ worksFor: Tsuji Lab
 address: Tokyo, Japan
 url: https://github.com/TTMK7777
 sameAs:
-  - https://www.linkedin.com/in/taimu-tsuji
+  - https://www.linkedin.com/in/taimu-tsuji-841902393
   - https://github.com/TTMK7777
 knowsAbout:
   - Multi-agent AI coordination
